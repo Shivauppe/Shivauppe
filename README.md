@@ -1,114 +1,124 @@
-👋 Hi, I'm Shivanand
-💻 Senior Database Developer | PostgreSQL | MySQL | Cloud & Data Migration Specialist
+<div align="center">
+🌑 Shivanand Uppe
+⚡ Senior PostgreSQL Engineer • Cloud Database Specialist • Data Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=900&lines=PostgreSQL+Performance+Engineering;Cloud+Database+Migration+Expert;Query+Optimization+Specialist;Designing+Scalable+Data+Systems" /> </div>
+🧠 About Me
 
-With 6+ years of experience in Database Development and Administration, I specialize in designing, optimizing, and migrating large-scale database systems. I have strong expertise in PostgreSQL, performance tuning, query optimization, and cloud data migration projects.
+I am a Senior Database Developer with 6+ years of experience building and optimizing large-scale database systems.
 
-🚀 Technical Skills
-🗄️ Databases
+I specialize in:
 
-PostgreSQL (Advanced)
+⚡ PostgreSQL Performance Engineering
 
-MySQL
+☁️ Cloud Database Migration (GCP → AWS)
 
-SQL Server (Basic)
+🔍 Query Optimization & Execution Plan Analysis
 
-MongoDB (Basic)
+🔁 High Availability & Replication
 
-⚙️ PostgreSQL Expertise
+📊 Data Engineering & Automation
+
+My focus is simple:
+Build scalable systems. Optimize performance. Deliver reliability.
+
+🧩 Core Expertise
+🗄️ Database Engineering
+<p align="center"> <img src="https://img.shields.io/badge/PostgreSQL-Advanced-111827?style=for-the-badge&logo=postgresql" /> <img src="https://img.shields.io/badge/MySQL-Experienced-111827?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/SQL-Expert-111827?style=for-the-badge&logo=postgresql" /> </p>
+
+Specializations
 
 Query Optimization & Performance Tuning
 
-Index Optimization
-
 Execution Plan Analysis (EXPLAIN / ANALYZE)
 
-Partitioning & Vacuum Tuning
+Indexing & Partitioning Strategy
 
-Stored Procedures & Functions (PL/pgSQL)
+Streaming & Logical Replication
 
-Triggers & Views
+Backup & PITR Strategy
 
-Backup & Recovery (pg_dump, pg_restore, PITR)
-
-Replication (Streaming Replication, Logical Replication)
-
-Role & Access Management
+Role-Based Access & Security
 
 ☁️ Cloud & Migration
+<p align="center"> <img src="https://img.shields.io/badge/AWS-RDS%20%7C%20EC2-111827?style=for-the-badge&logo=amazonaws" /> <img src="https://img.shields.io/badge/GCP-BigQuery-111827?style=for-the-badge&logo=googlecloud" /> </p>
 
-GCP BigQuery to AWS S3 Data Migration
-
-Database Migration Strategies
+GCP BigQuery → AWS S3 Migration
 
 Data Validation & Reconciliation
 
-Automation Scripts for Data Pipelines
+Production Reliability & Monitoring
 
-🛠️ Tools & Technologies
+Cloud Database Optimization
 
-Git
+🐍 Python & Data Engineering
+<p align="center"> <img src="https://img.shields.io/badge/Python-Advanced-111827?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-111827?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-111827?style=for-the-badge&logo=numpy" /> <img src="https://img.shields.io/badge/Jupyter-Notebook-111827?style=for-the-badge&logo=jupyter" /> </p>
 
-Linux
+Data Cleaning & Transformation
 
-Shell Scripting
+Exploratory Data Analysis (EDA)
 
-AWS (S3, EC2 - Basic)
+Automation & Scripting
 
-CI/CD Basics
+CSV / Excel Data Processing
 
-Jupyter Notebook
+📊 Data Visualization
+<p align="center"> <img src="https://img.shields.io/badge/Matplotlib-Visualization-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-111827?style=for-the-badge&logo=plotly" /> </p>
 
-📊 Key Projects
-🔹 PostgreSQL Migration Project
+Statistical Visualization
 
-Migrated legacy database systems to PostgreSQL
+Trend & Time-Series Analysis
 
-Optimized slow queries reducing execution time by 40%
+Correlation & Heatmap Analysis
 
-Implemented indexing strategies and partitioning
+Dashboard-Ready Graphs
 
-🔹 Data Lake Migration (GCP → AWS)
+🤖 Machine Learning
+<p align="center"> <img src="https://img.shields.io/badge/scikit--learn-ML%20Models-111827?style=for-the-badge&logo=scikitlearn" /> <img src="https://img.shields.io/badge/Regression-Models-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Classification-Models-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Clustering-KMeans-111827?style=for-the-badge" /> </p>
 
-Migrated data from BigQuery to AWS S3
+Linear & Logistic Regression
 
-Automated CSV/Excel email alert generation
+Decision Trees & Random Forest
 
-Ensured data integrity and validation
+K-Means Clustering
 
-🔹 Delta Load & Upsert Mechanism
+Model Evaluation (Accuracy, ROC, CV)
 
-Designed stored procedures for delta detection
+🏆 Featured Projects
+🚀 PostgreSQL Migration & Optimization
 
-Implemented UPSERT logic using ON CONFLICT
+Reduced execution time by 40%
 
-Reduced duplicate processing and improved performance
+Implemented indexing & partitioning strategy
 
-📈 Strengths
+Improved production database stability
 
-Strong SQL & Database Design Skills
+Built automated migration pipelines
 
-Performance Tuning Specialist
+Created reconciliation validation scripts
 
-Problem-Solving & Analytical Thinking
+Designed alerting workflows
 
-Production Support & Monitoring
+🔁 Delta Load & UPSERT Framework
 
-Interview Preparation Mentor (SQL & PostgreSQL)
+Implemented efficient ON CONFLICT logic
 
-📚 Currently Learning
+Reduced redundant data processing
 
-Advanced Data Science Concepts
+Improved ETL performance
 
-Machine Learning with Python
-
-Advanced PostgreSQL DBA Concepts
-
+🛠️ Tools & Environment
+<p align="center"> <img src="https://img.shields.io/badge/Linux-CLI-111827?style=for-the-badge&logo=linux" /> <img src="https://img.shields.io/badge/Git-Version%20Control-111827?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/Shell-Scripting-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/CI%2FCD-Basics-111827?style=for-the-badge" /> </p>
 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/shivanand-uppe/
+🔗 LinkedIn:
+https://www.linkedin.com/in/shivanand-uppe/
 
-Email: shivauppe@gmail.com
+📧 Email:
+shivauppe@gmail.com
 
-GitHub: https://github.com/Shivauppe/
+💻 GitHub:
+https://github.com/Shivauppe/
 
-⭐ “Turning Data into Insights with Performance & Precision.”
+<div align="center">
+🌌 "Engineering Performance. Designing Scalability. Delivering Reliability."
+</div>
