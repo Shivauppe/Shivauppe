@@ -4,13 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=900&lines=PostgreSQL+Performance+Engineering;Cloud+Database+Migration+Expert;Query+Optimization+Specialist;Designing+Scalable+Data+Systems" /> </div>
 🧠 About Me
 
-I am a Senior Database Developer with 6+ years of experience building and optimizing large-scale database systems.
+I am a Senior Database Developer with 6.5+ years of experience building and optimizing large-scale database systems.
 
 I specialize in:
 
 ⚡ PostgreSQL Performance Engineering
-
-☁️ Cloud Database Migration (GCP → AWS)
 
 🔍 Query Optimization & Execution Plan Analysis
 
