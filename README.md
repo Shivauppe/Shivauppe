@@ -105,10 +105,10 @@ Advanced PostgreSQL DBA Concepts
 
 📫 Connect With Me
 
-LinkedIn: Add your link here
+LinkedIn: https://www.linkedin.com/in/shivanand-uppe/
 
-Email: Add your email here
+Email: shivauppe@gmail.com
 
-GitHub: Add your GitHub link here
+GitHub: https://github.com/Shivauppe/
 
 ⭐ “Turning Data into Insights with Performance & Precision.”
