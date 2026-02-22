@@ -40,7 +40,6 @@ Role-Based Access & Security
 ☁️ Cloud & Migration
 <p align="center"> <img src="https://img.shields.io/badge/AWS-RDS%20%7C%20EC2-111827?style=for-the-badge&logo=amazonaws" /> <img src="https://img.shields.io/badge/GCP-BigQuery-111827?style=for-the-badge&logo=googlecloud" /> </p>
 
-GCP BigQuery → AWS S3 Migration
 
 Data Validation & Reconciliation
 
